@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# 6 клас (другий рік навчання)
+# 6 клас
 
 <p><b>Зміст розділу:</b></p>
 

@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Англійська мова (Друга іноземна мова) (Оновлено)
+# Англійська мова (Друга іноземна мова) (Оновлено) 
 
 <hr>
 

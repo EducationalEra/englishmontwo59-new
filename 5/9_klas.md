@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# 9 клас (п'ятий рік навчання)
+# 9 клас
 
 <p><b>Зміст розділу:</b></p>
 

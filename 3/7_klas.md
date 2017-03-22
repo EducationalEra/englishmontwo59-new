@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# 7 клас (третій рік навчання)
+# 7 клас
 
 <p><b>Зміст розділу:</b></p>
    * [Тематика ситуативного спілкування](tematika_spilkuvannya.md)

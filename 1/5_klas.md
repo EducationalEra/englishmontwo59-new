@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# 5 клас (перший рік навчання)
+# 5 клас
 
 <p><b>Зміст розділу:</b></p>
    * [Тематика ситуативного спілкування](tematika_spilkuvannya.md)
