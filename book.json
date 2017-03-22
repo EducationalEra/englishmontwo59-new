@@ -1,7 +1,7 @@
 {
     "gitbook": ">=3.0.0-pre.11",
     "title": "Англійська мова (Друга іноземна мова) (Оновлено)",
-    "plugins": ["-search", "fontsettings", "sharing", "addcssjs", "quiz", "mathjax"],
+    "plugins": ["-search", "fontsettings", "sharing", "addcssjs", "quiz", "-mathjax"],
     "pluginsConfig": {
         "theme-default": {
             "showLevel": true

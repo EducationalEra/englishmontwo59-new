@@ -3,16 +3,12 @@
 # 5 клас
 
 <p><b>Зміст розділу:</b></p>
-   * [Тематика ситуативного спілкування](tematika_spilkuvannya.md)
-   * [Мовленнєві функції](movlennyevi_funkciyi.md)
-   * [Лінгвістичні компетенції](lyngvystykhna_kompetenzia.md)
-   * [Соціокультурна компетенція](soziokulturna_kompetenzia.md)
-   * [Загальнонавчальна компетенція](zagalnonavchalna_kompetenzya.md)
-   * [Мовленнєва компетенція](na_kynec_5_klasu_uchny_povunny_vmyty.md)
-       * [Аудіювання](audiyuvannya.md)
-       * [Говоріння](govorinnya.md)
-       * [Читання](chitannya.md)
-       * [Письмо](pysmo.md)
+   
+<ul>
+    <li><a href="./spilkuvannya.md">Загальні характеристики ситуативного спілкування</a></li>
+    <li><a href="./leksyka.md">Мовний інвентар – лексика</a></li>
+    <li><a href="./gramatyka.md">Мовний інвентар – граматика</a></li>
+</ul>
 
 
 <div class="js-hypercomments-container">
